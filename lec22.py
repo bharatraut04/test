@@ -1,0 +1,7 @@
+tup = ( 1, 3575, 514 ,565,"bharat","mango")
+print(type(tup))
+print(len(tup))
+print(tup[:])
+print(tup[0:6:2])
+print(tup[1:5])
+print(tup[1:-4])
